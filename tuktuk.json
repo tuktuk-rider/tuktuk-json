@@ -1,5 +1,6 @@
 {
     "1ST_KM": 100,
     "NEXT_KMS": 65,
+    "ROUND_UP_KM": false,
     "IS_STOPPED": false
 }
