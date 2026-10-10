@@ -7,8 +7,8 @@
     "MIN_CHANGE": 50,
     "ROUND_UP_KM": false,
     "IS_STOPPED": false,
-    "IS_FUEL_PRICE": true,
-    "PER_LITER": 28,
-    "FUEL_PRICE": 414,
+    "IS_FUEL_PRICE": false,
+    "PER_LITER": 0,
+    "FUEL_PRICE": 0,
     "BASE_FUEL_PRICE": 414
 }
