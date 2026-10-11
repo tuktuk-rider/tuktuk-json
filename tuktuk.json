@@ -10,5 +10,7 @@
     "IS_FUEL_PRICE": false,
     "PER_LITER": 0,
     "FUEL_PRICE": 0,
-    "BASE_FUEL_PRICE": 414
+    "BASE_FUEL_PRICE": 414,
+    "IS_WAITING": true,
+    "WAITING_PER_HOUR": 300
 }
