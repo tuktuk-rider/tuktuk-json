@@ -1,18 +1,20 @@
 {
-    "MINIMUM_FARE": 150,
-    "PER_KM": 65,
-    "CHANGE_PRICE_PER": 25,
-    "CHANGE_AMOUNT": 5,
-    "MAX_CHANGE": 100,
-    "MIN_CHANGE": 50,
-    "ROUND_UP_KM": false,
-    "IS_STOPPED": false,
-    "IS_FUEL_PRICE": false,
-    "PER_LITER": 0,
-    "FUEL_PRICE": 0,
-    "BASE_FUEL_PRICE": 414,
-    "IS_WAITING": true,
-    "WAITING_PER_HOUR": 300,
+    "THREE_WHEELER": {
+        "MINIMUM_FARE": 150,
+        "PER_KM": 65,
+        "CHANGE_PRICE_PER": 25,
+        "CHANGE_AMOUNT": 5,
+        "MAX_CHANGE": 100,
+        "MIN_CHANGE": 50,
+        "ROUND_UP_KM": false,
+        "IS_STOPPED": false,
+        "IS_FUEL_PRICE": false,
+        "PER_LITER": 0,
+        "FUEL_PRICE": 0,
+        "BASE_FUEL_PRICE": 414,
+        "IS_WAITING": true,
+        "WAITING_PER_HOUR": 300
+    }
 
     "BIKE": {
         "MINIMUM_FARE": 100,
