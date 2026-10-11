@@ -12,5 +12,39 @@
     "FUEL_PRICE": 0,
     "BASE_FUEL_PRICE": 414,
     "IS_WAITING": true,
-    "WAITING_PER_HOUR": 300
+    "WAITING_PER_HOUR": 300,
+
+    "BIKE": {
+        "MINIMUM_FARE": 100,
+        "PER_KM": 50,
+        "CHANGE_PRICE_PER": 25,
+        "CHANGE_AMOUNT": 3,
+        "MAX_CHANGE": 70,
+        "MIN_CHANGE": 35,
+        "ROUND_UP_KM": false,
+        "IS_STOPPED": false,
+        "IS_FUEL_PRICE": false,
+        "PER_LITER": 0,
+        "FUEL_PRICE": 0,
+        "BASE_FUEL_PRICE": 414,
+        "IS_WAITING": true,
+        "WAITING_PER_HOUR": 150
+    },
+
+    "CAR": {
+        "MINIMUM_FARE": 500,
+        "PER_KM": 110,
+        "CHANGE_PRICE_PER": 25,
+        "CHANGE_AMOUNT": 10,
+        "MAX_CHANGE": 160,
+        "MIN_CHANGE": 80,
+        "ROUND_UP_KM": false,
+        "IS_STOPPED": false,
+        "IS_FUEL_PRICE": false,
+        "PER_LITER": 0,
+        "FUEL_PRICE": 0,
+        "BASE_FUEL_PRICE": 414,
+        "IS_WAITING": true,
+        "WAITING_PER_HOUR": 400
+    }
 }
