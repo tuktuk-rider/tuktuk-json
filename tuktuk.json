@@ -30,16 +30,16 @@
         "FUEL_PRICE": 0,
         "BASE_FUEL_PRICE": 414,
         "IS_WAITING": true,
-        "WAITING_PER_HOUR": 150
+        "WAITING_PER_HOUR": 300
     },
 
     "CAR": {
-        "MINIMUM_FARE": 500,
-        "PER_KM": 110,
+        "MINIMUM_FARE": 400,
+        "PER_KM": 75,
         "CHANGE_PRICE_PER": 25,
         "CHANGE_AMOUNT": 10,
-        "MAX_CHANGE": 160,
-        "MIN_CHANGE": 80,
+        "MAX_CHANGE": 150,
+        "MIN_CHANGE": 60,
         "ROUND_UP_KM": false,
         "IS_STOPPED": false,
         "IS_FUEL_PRICE": false,
@@ -47,6 +47,6 @@
         "FUEL_PRICE": 0,
         "BASE_FUEL_PRICE": 414,
         "IS_WAITING": true,
-        "WAITING_PER_HOUR": 400
+        "WAITING_PER_HOUR": 300
     }
 }
