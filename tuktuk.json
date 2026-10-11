@@ -14,7 +14,7 @@
         "BASE_FUEL_PRICE": 414,
         "IS_WAITING": true,
         "WAITING_PER_HOUR": 300
-    }
+    },
 
     "BIKE": {
         "MINIMUM_FARE": 100,
