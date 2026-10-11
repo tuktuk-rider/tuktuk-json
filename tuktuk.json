@@ -1,5 +1,5 @@
 {
-    "MINIMUM_FARE": 100,
+    "MINIMUM_FARE": 150,
     "PER_KM": 65,
     "CHANGE_PRICE_PER": 25,
     "CHANGE_AMOUNT": 5,
