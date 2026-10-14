@@ -1,20 +1,20 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-13",
+  "updatedAt": "2026-10-14",
   "vehicles": {
     "tuktuk": {
       "active": true,
-      "fare": { "minimumFare": 150, "perKm": 65 },
+      "fare": { "minimumFare": 150, "perKm": 65, "returnPerKm": 34 },
       "waiting": { "enabled": true, "perHour": 300 }
     },
     "bike": {
       "active": true,
-      "fare": { "minimumFare": 100, "perKm": 45 },
+      "fare": { "minimumFare": 100, "perKm": 45, "returnPerKm": 18 },
       "waiting": { "enabled": true, "perHour": 300 }
     },
     "car": {
       "active": true,
-      "fare": { "minimumFare": 400, "perKm": 90 },
+      "fare": { "minimumFare": 400, "perKm": 75, "returnPerKm": 46 },
       "waiting": { "enabled": true, "perHour": 400 }
     }
   }
