@@ -9,7 +9,7 @@
     },
     "bike": {
       "active": true,
-      "fare": { "minimumFare": 100, "perKm": 35 },
+      "fare": { "minimumFare": 100, "perKm": 51 },
       "waiting": { "enabled": true, "perHour": 300 }
     },
     "car": {
