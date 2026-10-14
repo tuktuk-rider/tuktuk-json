@@ -4,7 +4,7 @@
   "vehicles": {
     "tuktuk": {
       "active": true,
-      "fare": { "minimumFare": 150, "perKm": 50 },
+      "fare": { "minimumFare": 150, "perKm": 83 },
       "waiting": { "enabled": true, "perHour": 300 }
     },
     "bike": {
