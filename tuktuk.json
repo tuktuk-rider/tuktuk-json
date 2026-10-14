@@ -4,17 +4,17 @@
   "vehicles": {
     "tuktuk": {
       "active": true,
-      "fare": { "minimumFare": 150, "perKm": 65, "returnPerKm": 34 },
+      "fare": { "minimumFare": 150, "perKm": 50, "returnPerKm": 35 },
       "waiting": { "enabled": true, "perHour": 300 }
     },
     "bike": {
       "active": true,
-      "fare": { "minimumFare": 100, "perKm": 35, "returnPerKm": 25 },
+      "fare": { "minimumFare": 100, "perKm": 31, "returnPerKm": 21 },
       "waiting": { "enabled": true, "perHour": 300 }
     },
     "car": {
       "active": true,
-      "fare": { "minimumFare": 400, "perKm": 75, "returnPerKm": 55 },
+      "fare": { "minimumFare": 400, "perKm": 80, "returnPerKm": 55 },
       "waiting": { "enabled": true, "perHour": 400 }
     }
   }
