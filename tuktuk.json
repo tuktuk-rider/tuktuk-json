@@ -14,7 +14,7 @@
     },
     "car": {
       "active": true,
-      "fare": { "minimumFare": 400, "perKm": 75 },
+      "fare": { "minimumFare": 400, "perKm": 90 },
       "waiting": { "enabled": true, "perHour": 400 }
     }
   }
