@@ -6,36 +6,43 @@
   "vehicles": {
     "bike": {
       "active": true,
+      "passengers": 1,
       "fare": { "minimumFare": 100, "expensePerKm": 24 },
       "waiting": { "enabled": true, "perHour": 300 }
     },
     "tuktuk": {
       "active": true,
+      "passengers": 3,
       "fare": { "minimumFare": 150, "expensePerKm": 35 },
       "waiting": { "enabled": true, "perHour": 300 }
     },
     "minicar": {
       "active": true,
-      "fare": { "minimumFare": 300, "expensePerKm": 48 },
+      "passengers": 3,
+      "fare": { "minimumFare": 300, "expensePerKm": 38.89 },
       "waiting": { "enabled": true, "perHour": 300 }
     },
     "car": {
       "active": true,
-      "fare": { "minimumFare": 400, "expensePerKm": 62 },
+      "passengers": 4,
+      "fare": { "minimumFare": 400, "expensePerKm": 45 },
       "waiting": { "enabled": true, "perHour": 400 }
     },
     "minivan": {
       "active": true,
+      "passengers": 6,
       "fare": { "minimumFare": 500, "expensePerKm": 52.99 },
       "waiting": { "enabled": true, "perHour": 400 }
     },
     "van": {
       "active": true,
+      "passengers": 10,
       "fare": { "minimumFare": 1000, "expensePerKm": 75.56 },
       "waiting": { "enabled": true, "perHour": 600 }
     },
     "minibus": {
       "active": true,
+      "passengers": 26,
       "fare": { "minimumFare": 2500, "expensePerKm": 118.1 },
       "waiting": { "enabled": true, "perHour": 1000 }
     }
