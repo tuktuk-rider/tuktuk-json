@@ -2,21 +2,42 @@
   "schemaVersion": 2,
   "updatedAt": "2026-10-15",
   "profit": { "oneWayPct": 40, "roundTripPct": 30 },
+  "fuelPrices": { "effectiveDate": "2026-09-30", "petrol92": 414, "petrol95": 475, "autoDiesel": 392, "superDiesel": 528 },
   "vehicles": {
-    "tuktuk": {
-      "active": true,
-      "fare": { "minimumFare": 150, "expensePerKm": 35 },
-      "waiting": { "enabled": true, "perHour": 300 }
-    },
     "bike": {
       "active": true,
       "fare": { "minimumFare": 100, "expensePerKm": 24 },
       "waiting": { "enabled": true, "perHour": 300 }
     },
+    "tuktuk": {
+      "active": true,
+      "fare": { "minimumFare": 150, "expensePerKm": 35 },
+      "waiting": { "enabled": true, "perHour": 300 }
+    },
+    "minicar": {
+      "active": true,
+      "fare": { "minimumFare": 300, "expensePerKm": 38.89 },
+      "waiting": { "enabled": true, "perHour": 300 }
+    },
     "car": {
       "active": true,
-      "fare": { "minimumFare": 400, "expensePerKm": 67 },
+      "fare": { "minimumFare": 400, "expensePerKm": 45 },
       "waiting": { "enabled": true, "perHour": 400 }
+    },
+    "minivan": {
+      "active": true,
+      "fare": { "minimumFare": 500, "expensePerKm": 52.99 },
+      "waiting": { "enabled": true, "perHour": 400 }
+    },
+    "van": {
+      "active": true,
+      "fare": { "minimumFare": 1000, "expensePerKm": 75.56 },
+      "waiting": { "enabled": true, "perHour": 600 }
+    },
+    "minibus": {
+      "active": true,
+      "fare": { "minimumFare": 2500, "expensePerKm": 118.1 },
+      "waiting": { "enabled": true, "perHour": 1000 }
     }
   }
 }
