@@ -1,20 +1,21 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-14",
+  "updatedAt": "2026-10-15",
+  "profit": { "oneWayPct": 40, "roundTripPct": 25 },
   "vehicles": {
     "tuktuk": {
       "active": true,
-      "fare": { "minimumFare": 150, "perKm": 83 },
+      "fare": { "minimumFare": 150, "expensePerKm": 33.85 },
       "waiting": { "enabled": true, "perHour": 300 }
     },
     "bike": {
       "active": true,
-      "fare": { "minimumFare": 100, "perKm": 51 },
+      "fare": { "minimumFare": 100, "expensePerKm": 18.15 },
       "waiting": { "enabled": true, "perHour": 300 }
     },
     "car": {
       "active": true,
-      "fare": { "minimumFare": 400, "perKm": 120 },
+      "fare": { "minimumFare": 400, "expensePerKm": 46.1 },
       "waiting": { "enabled": true, "perHour": 400 }
     }
   }
