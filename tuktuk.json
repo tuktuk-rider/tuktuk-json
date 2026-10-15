@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "updatedAt": "2026-10-15",
-  "profit": { "oneWayPct": 40, "roundTripPct": 25 },
+  "profit": { "oneWayPct": 40, "roundTripPct": 30 },
   "vehicles": {
     "tuktuk": {
       "active": true,
