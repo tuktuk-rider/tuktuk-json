@@ -16,7 +16,7 @@
     },
     "minicar": {
       "active": true,
-      "fare": { "minimumFare": 300, "expensePerKm": 38.89 },
+      "fare": { "minimumFare": 300, "expensePerKm": 48 },
       "waiting": { "enabled": true, "perHour": 300 }
     },
     "car": {
