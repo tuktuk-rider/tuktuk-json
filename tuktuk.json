@@ -25,7 +25,7 @@
     "car": {
       "active": true,
       "passengers": 4,
-      "fare": { "minimumFare": 400, "expensePerKm": 45 },
+      "fare": { "minimumFare": 400, "expensePerKm": 62 },
       "waiting": { "enabled": true, "perHour": 400 }
     },
     "minivan": {
